@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/marieblanchard/Desktop/TD1/build",
+  "command": "/usr/bin/clang++  -I/Users/marieblanchard/Desktop/TD1/src -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/marieblanchard/Desktop/TD1/src/main.cpp",
+  "file": "/Users/marieblanchard/Desktop/TD1/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/marieblanchard/Desktop/TD1/build",
+  "command": "/usr/bin/clang++  -I/Users/marieblanchard/Desktop/TD1/src -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/main.dir/src/fraction.cpp.o -c /Users/marieblanchard/Desktop/TD1/src/fraction.cpp",
+  "file": "/Users/marieblanchard/Desktop/TD1/src/fraction.cpp",
+  "output": "CMakeFiles/main.dir/src/fraction.cpp.o"
+},
+{
+  "directory": "/Users/marieblanchard/Desktop/TD1/build",
+  "command": "/usr/bin/clang++  -I/Users/marieblanchard/Desktop/TD1/src -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles/main.dir/src/utils.cpp.o -c /Users/marieblanchard/Desktop/TD1/src/utils.cpp",
+  "file": "/Users/marieblanchard/Desktop/TD1/src/utils.cpp",
+  "output": "CMakeFiles/main.dir/src/utils.cpp.o"
+}
+]
