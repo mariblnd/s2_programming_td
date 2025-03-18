@@ -1,3 +1,0 @@
-/Users/marieblanchard/Desktop/s2_c--_td/build/CMakeFiles/TD2.dir
-/Users/marieblanchard/Desktop/s2_c--_td/build/CMakeFiles/edit_cache.dir
-/Users/marieblanchard/Desktop/s2_c--_td/build/CMakeFiles/rebuild_cache.dir

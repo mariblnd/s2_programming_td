@@ -1,6 +1,6 @@
 {
     "C_Cpp.default.compilerPath": "/usr/bin/clang",
-    "cmake.sourceDirectory": "/Users/marieblanchard/Desktop/s2_c--_td/TD2",
+    "cmake.sourceDirectory": "/Users/marieblanchard/Desktop/s2_programming_td-main/TD1",
     "files.associations": {
         "*.txt": "cpp",
         "iterator": "cpp",
